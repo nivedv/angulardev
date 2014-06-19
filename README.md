@@ -1,4 +1,4 @@
 angulardev
 ==========
 
-repository for AngularJS development 
+Repository for AngularJS development 
